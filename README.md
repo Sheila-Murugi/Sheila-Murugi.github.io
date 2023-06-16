@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
 <body>
     </head>
   <div class="navbar">
