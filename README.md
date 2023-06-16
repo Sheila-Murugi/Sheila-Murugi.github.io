@@ -1,8 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="en">
-    <head>
 <body>
-    </head>
   <div class="navbar">
     <a class="logo" href="#">Greece Fun Spots!</a>
     <style>
